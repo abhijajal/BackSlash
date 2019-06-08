@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Back\\slash</string>
+    <string-array name="spinner_item">
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Magenta</item>
+        <item>Cyan</item>
+        <item>Blue</item>
+        <item>DarkGray</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>LightGray</item>
+    </string-array>
+</resources>
